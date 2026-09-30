@@ -18,7 +18,11 @@ portfolio: es el proceso — agentes + specs + desarrollo + QA + cambios.
 | `agents/pm.md` | Vacía. La rellenas tú en el LAB 2. |
 | `agents/dev.md` | Vacía. La rellenas tú en el LAB 3. |
 | `agents/qa.md` | Vacía. La rellenas tú en el LAB 4. |
-| `src/` | Vacío. Aquí va el producto. |
+| `DEPLOY.md` | Cómo publicar tu portfolio en una URL. Al final del día 2. |
+
+**El producto va en la raíz del repositorio**: `index.html` y lo que necesite a su lado. No lo
+metas en una subcarpeta — así las rutas a `data/` y `assets/` funcionan tal cual, y publicarlo
+después es cuestión de dos clics.
 
 ## Cómo se trabaja
 
