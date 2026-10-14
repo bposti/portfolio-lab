@@ -10,7 +10,8 @@ portfolio: es el proceso — agentes + specs + desarrollo + QA + cambios.
 | Archivo / carpeta | Qué es |
 |---|---|
 | `requirements.md` | El encargo de la empresa. Es lo único que sabes del producto. |
-| `data/projects.json` | Los datos con los que trabajas. |
+| `data/projects.json` | Los proyectos del perfil de ejemplo. |
+| `data/profile.json` | Los datos personales del perfil de ejemplo: quién es, foto, contacto. |
 | `assets/` | Las imágenes de los proyectos y la foto del perfil (`profile.jpg`). |
 | `design/DESIGN-001.md` | Sistema de diseño. **Ya está hecho y no se toca.** |
 | `specs/SPEC-001.md` | Vacía. La rellenas tú en el LAB 1. |

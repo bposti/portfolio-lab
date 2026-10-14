@@ -42,7 +42,8 @@ Marta
 
 ---
 
-Los datos del perfil de ejemplo están en `data/projects.json`; las capturas y la foto del perfil
-(`assets/profile.jpg`, foto de Vicky Hladynets en Unsplash), en `assets/`.
+Los datos del perfil de ejemplo están en `data/profile.json` (quién es y cómo contactarle) y
+`data/projects.json` (sus proyectos). Las capturas y la foto del perfil están en `assets/`; la foto
+es de Vicky Hladynets en Unsplash.
 
 Todo el mundo trabaja sobre el mismo perfil. Cada uno pondrá los suyos después del curso.
