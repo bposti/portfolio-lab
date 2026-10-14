@@ -15,9 +15,9 @@ portfolio: es el proceso — agentes + specs + desarrollo + QA + cambios.
 | `design/DESIGN-001.md` | Sistema de diseño. **Ya está hecho y no se toca.** |
 | `specs/SPEC-001.md` | Vacía. La rellenas tú en el LAB 1. |
 | `tasks.md` | Vacía. La rellenas tú en el LAB 1. |
-| `agents/pm.md` | Vacía. La rellenas tú en el LAB 2. |
-| `agents/dev.md` | Vacía. La rellenas tú en el LAB 3. |
-| `agents/qa.md` | Vacía. La rellenas tú en el LAB 4. |
+| `agents/pm.md` | PM Agent, ya montado. Lo usas en el LAB 2. |
+| `agents/dev.md` | DEV Agent, ya montado. Lo usas en el LAB 3. |
+| `agents/qa.md` | QA Agent, ya montado. Lo usas en el LAB 4. |
 | `DEPLOY.md` | Cómo publicar tu portfolio en una URL. Al final del día 2. |
 
 **El producto va en la raíz del repositorio**: `index.html` y lo que necesite a su lado. No lo
